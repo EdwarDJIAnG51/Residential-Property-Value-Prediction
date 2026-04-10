@@ -1,6 +1,7 @@
 # Residential Property Value Prediction — Kaggle Competition
 
 **Washington University in St. Louis | T81-558: Applications of Deep Neural Networks**
+
 **Team Prompt** · Chufan Jiang · Xinyue Ha · Linyuan Zhao · Yutian Han
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)](https://www.kaggle.com/competitions/app-of-gen-ai-deep-learning-wustl-fall-2025)
